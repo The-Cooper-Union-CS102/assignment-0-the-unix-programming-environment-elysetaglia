@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Basic",
+      "setup": "",
+      "run": "./solution.sh",
+      "input": "",
+      "output": "hello bash\r\n./mydir3/myfile\r\n./mydir3\r\n./mydir2/myfile\r\n./mydir2\r\n.",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
